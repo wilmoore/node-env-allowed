@@ -14,7 +14,7 @@ var get = require('env-accessors').get;
 module.exports = allowed;
 
 /**
- * Whether an environment varaible's value is contained within an allow list.
+ * Whether an environment variable's value is contained within an allow list.
  * Allow list is provided by a comma-separated environment variable value.
  *
  * @param {String} allowListKey

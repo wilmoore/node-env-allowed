@@ -12,7 +12,7 @@
     "variable",
     "12factor"
   ],
-  "description": "Whether an environment varaible's value is contained within an allow list. Allow list is provided by a comma-separated environment variable value.",
+  "description": "Whether an environment variable's value is contained within an allow list. Allow list is provided by a comma-separated environment variable value.",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "contributors": [
     {
